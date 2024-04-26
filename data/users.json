@@ -1,0 +1,38 @@
+[
+    {
+        "UserID": 1,
+        "Username": "mariosumm",
+        "Userpassword": "yourpassword1",
+        "UserType": "regular"
+    },
+    {
+        "UserID": 2,
+        "Username": "emilylaff",
+        "Userpassword": "yourpassword2",
+        "UserType": "organizer"
+    },
+    {
+        "UserID": 3,
+        "Username": "kevinjosh",
+        "Userpassword": "yourpassword3",
+        "UserType": "admin"
+    },
+    {
+        "UserID": 4,
+        "Username": "admin",
+        "Userpassword": "123",
+        "UserType": "admin"
+    },
+    {
+        "UserID": 5,
+        "Username": "MariaLoba",
+        "Userpassword": "qwe123",
+        "UserType": "regular"
+    },
+    {
+        "UserID": 6,
+        "Username": "CoachSteve",
+        "Userpassword": "rrttqq",
+        "UserType": "organizer"
+    }
+]

@@ -1,0 +1,128 @@
+body, h1, h2, h3, h4, p, div {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+  background-color: #f7f7f7;
+  font-family: 'Arial', sans-serif;
+}
+
+.HeaderContainter {
+  background-color: #2c3e50;
+  color: #ecf0f1;
+  width: 100%;
+  text-align: center;
+  padding: 10px 0;
+}
+
+.LowerHead {
+  display: flex;
+  justify-content: space-between;
+  padding-left: 40px;
+  padding-right: 40px;
+  align-items: baseline;
+}
+
+.interactables {
+  display: flex;
+  justify-content: space-evenly;
+  background-color: #e74c3c;
+}
+
+.interactables:hover {
+  background-color: #c0392b; /* Darker color when the mouse is on it */
+}
+
+#Home, #CreatePost, #dashboard {
+  min-width: 160px;
+  background-color: #3498db;
+  color: #fff;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+}
+
+.BodyContainer {
+  display: flex;
+  margin: auto;
+  align-items: stretch;
+  width: 80%;
+}
+
+.sidebarContainer {
+  flex: 1;
+  background-color: #bdc3c7;
+  height: fit-content; /* Adjust height as needed */
+}
+
+.EventContainer {
+  flex: 3;
+  background-color: #3498db;
+  display: block;
+  overflow: auto;
+  height: 100%;
+}
+
+.UniqueEventContainer {
+  background-color: #fff;
+  border: 1px solid #ddd;
+  margin-bottom: 20px;
+  padding: 15px;
+}
+
+.EventTitle {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.EventBody {
+    margin-bottom: 10px;
+}
+
+.Bodytop, .Bodybottom {
+    display: flex;
+    justify-content: space-between;
+}
+
+.Date, .EventDescription, .upvotes, .participants, .status {
+    margin-bottom: 5px;
+}
+
+.EventAction {
+    margin-top: 10px;
+}
+
+.Upvotebtn, .Joinbtn, .dltbtn {
+    padding: 8px 12px;
+    margin-right: 5px;
+    cursor: pointer;
+}
+
+.CommentSection {
+    margin-top: 15px;
+    border-top: 1px solid #ccc;
+    padding-top: 10px;
+}
+
+#PageCounter {
+  text-align: center;
+  margin-top: 20px;
+}
+
+#prevButton, #nextButton {
+  background-color: #2c3e50;
+  color: #ecf0f1;
+  padding: 8px 12px;
+  cursor: pointer;
+}
+
+#Pcounter {
+  display: inline-block;
+  margin: 0 10px;
+  font-size: 16px;
+}

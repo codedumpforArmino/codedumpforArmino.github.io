@@ -1,0 +1,83 @@
+[
+    {
+        "OrganizerId": 2,
+        "id": 1,
+        "title": "Fun Run",
+        "body": "Run from Cebu to Talisay at 9km",
+        "upvotes": 0,
+        "time": "2023-11-16",
+        "status": "completed"
+    },
+    {
+        "OrganizerId": 2,
+        "id": 2,
+        "title": "Battle of the Bands",
+        "body": "Open Mic for local Musicians",
+        "upvotes": 0,
+        "time": "2023-12-15",
+        "status": "ongoing"
+    },
+    {
+        "OrganizerId": 2,
+        "id": 3,
+        "title": "Christmas Concert",
+        "body": "One last Christmas carol before the end of Christmas",
+        "upvotes": 0,
+        "time": "2023-12-25",
+        "status": "completed"
+    },
+    {
+        "OrganizerId": 2,
+        "id": 4,
+        "title": "Tech Conference",
+        "body": "Explore the latest in technology",
+        "upvotes": 0,
+        "time": "2024-02-10",
+        "status": "ongoing"
+    },
+    {
+        "OrganizerId": 2,
+        "id": 5,
+        "title": "Food Festival",
+        "body": "Enjoy a variety of delicious dishes",
+        "upvotes": 0,
+        "time": "2024-03-20",
+        "status": "ongoing"
+    },
+    {
+        "OrganizerId": 2,
+        "id": 6,
+        "title": "Art Exhibition",
+        "body": "An exhibition featuring local artists",
+        "upvotes": 0,
+        "time": "2024-04-15",
+        "status": "ongoing"
+    },
+    {
+        "OrganizerId": "6",
+        "id": 7,
+        "title": "Freestyle Jump Rope Open",
+        "body": "Shhowcase your Freestyle jump rope skills",
+        "upvotes": 0,
+        "time": "2024-01-04",
+        "status": "ongoing"
+    },
+    {
+        "OrganizerId": "6",
+        "id": 8,
+        "title": "Coaching Session",
+        "body": "Learn Sports with Coach Steve",
+        "upvotes": 0,
+        "time": "2024-03-12",
+        "status": "ongoing"
+    },
+    {
+        "OrganizerId": "6",
+        "id": 9,
+        "title": "test",
+        "body": "test",
+        "upvotes": 0,
+        "time": "2023-12-30",
+        "status": "ongoing"
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "UserID": 5,
+        "Username": "MariaLoba",
+        "RequestType": "Join Event",
+        "RequestDesc": "Interested to join Event",
+        "EventId": 6
+    },
+    {
+        "UserID": 1,
+        "Username": "mariosumm",
+        "RequestType": "Join Event",
+        "RequestDesc": "Interested to join Event",
+        "EventId": 3
+    }
+]

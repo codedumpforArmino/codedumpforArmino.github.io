@@ -1,0 +1,26 @@
+[
+    {
+        "EventId": 1,
+        "id": 1,
+        "name": "Saaad Mane",
+        "body": "Fun and Challenging!"
+    },
+    {
+        "EventId": 2,
+        "id": 2,
+        "name": "Kevin",
+        "body": "I enjoyed it!"
+    },
+    {
+        "EventId": 2,
+        "id": 3,
+        "name": "Jibz Erns",
+        "body": "wasnt fun for me :\/"
+    },
+    {
+        "EventId": 3,
+        "id": 4,
+        "name": "Santa Clause",
+        "body": "Best Christmas Ever!"    
+    }
+]
